@@ -1,7 +1,7 @@
 # Site settings
 title: Flyyzjl's github page
 description: 123
-baseurl: "https://flyyzjl.github.io" 
+baseurl: "" 
 #change the baseurl to "" if you are using it as your user GitHub Pages
 url: "https://flyyzjl.github.io"  
 
