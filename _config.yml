@@ -1,14 +1,14 @@
 # Site settings
 title: Flyyzjl's github page
 description: [My blog](https://flyyz.cn/)
-baseurl: "" 
+baseurl: "https://flyyzjl.github.io" 
 #change the baseurl to "" if you are using it as your user GitHub Pages
-url: "https://yk-liu.github.io"  
+url: "https://flyyzjl.github.io"  
 
 
 # GitHub User settings
-username: Username
-github_username: github_username
+username: flyyzjl
+github_username: FlyyZJL
 user_description: user_description
 user_title: user_title
 email: 
